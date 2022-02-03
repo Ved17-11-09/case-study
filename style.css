@@ -1,0 +1,7 @@
+img{ 
+    width: 100px ; height : 100px ; 
+}
+div{
+    box-shadow : 5px 5px 5px red ;
+    background-color: grey;
+} 
